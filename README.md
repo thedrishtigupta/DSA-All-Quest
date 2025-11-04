@@ -15,7 +15,7 @@ Each folder represents a topic, and every problem has its own mini-folder with a
 **Example:**
 
 /Arrays/
-   |— Two Sum/
-       |— README.md      (Problem statement + platform link)
-       |— solution.cpp   (Code + explanation)
-       |— notes.md       (Insights, patterns, or alternate approaches)
+├── Two Sum/
+│ ├── README.md (Problem statement + platform link)
+│ ├── solution.cpp (Code + explanation)
+│ └── notes.md (Insights, patterns, or alternate approaches)

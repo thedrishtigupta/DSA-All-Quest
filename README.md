@@ -1,8 +1,21 @@
-# All DSA questions
+# 🧠 All DSA Questions
 
-This repo contains all the questions I have ever solved, with proper question description and platform information.
+This repository is my **complete DSA journey** — a collection of every question I’ve solved, documented with **problem descriptions, platforms, and patterns**.
 
-Use this repo for:
-    - Revision
-    - Structuring
-    - Pattern Recognition
+I’m building this as a long-term vault for:
+- 🔁 **Revision** — Quick access to all solved problems for brushing up anytime.
+- 🧩 **Structuring** — Organized by topic, difficulty, and approach for easy navigation.
+- 🧭 **Pattern Recognition** — To spot recurring logic, templates, and problem-solving flows.
+
+---
+
+## 📂 Structure
+Each folder represents a topic, and every problem has its own mini-folder with all necessary details.
+
+**Example:**
+
+/Arrays/
+   |— Two Sum/
+       |— README.md      (Problem statement + platform link)
+       |— solution.cpp   (Code + explanation)
+       |— notes.md       (Insights, patterns, or alternate approaches)

@@ -50,3 +50,17 @@ public:
         else return rightLCA;
     }
 };
+
+
+class Solution {
+public:
+    TreeNode* find_lca(TreeNode*r, TreeNode* p, TreeNode* q){
+        if(r->val < p->val) return find_lca(r->right, p , q);
+        if(r->val > q->val) return find_lca(r->left, p , q);
+        return r;
+    }
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if(p->val > q->val)swap(p, q);
+        return find_lca(root, p, q);
+    }
+};

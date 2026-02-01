@@ -29,4 +29,4 @@ Contains all DSA questions I encountered in:
 - Mock tests
 - OA rounds
 
-👉 https://github.com/ythedrishtigupta/dsa-test
+👉 https://github.com/thedrishtigupta/dsa-test

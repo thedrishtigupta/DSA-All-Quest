@@ -19,3 +19,14 @@ Each folder represents a topic, and every problem has its own mini-folder with a
 │ ├── README.md (Problem statement + platform link)<br>
 │ ├── solution.cpp (Code + explanation)<br>
 │ └── notes.md (Insights, patterns, or alternate approaches)<br>
+
+
+## Interview & Test Questions
+
+➡️ **DSA Test Repository**  
+Contains all DSA questions I encountered in:
+- Interviews
+- Mock tests
+- OA rounds
+
+👉 https://github.com/ythedrishtigupta/dsa-test
